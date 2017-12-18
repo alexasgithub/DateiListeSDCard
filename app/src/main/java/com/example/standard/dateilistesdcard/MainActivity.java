@@ -28,6 +28,11 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private List<String> lese_SD_DateiListe() {
         List<String> dateiListe = new ArrayList<String>();
+
+        String status = "neu";
+
+        // TODO hier muss was Sinnvolles passieren
+
         File sdKarte = Environment.getExternalStorageDirectory();
 
         if(sdKarte.exists() && sdKarte.canRead()) {

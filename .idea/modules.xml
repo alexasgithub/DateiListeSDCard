@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DateiListeSDCard.iml" filepath="$PROJECT_DIR$/DateiListeSDCard.iml" />
       <module fileurl="file://$USER_HOME$/Dokumente/Studium WS1718/AndroidProgr/android_louis/Loesungen/Kap12/DateiListeSDCard/DateiListeSDCard.iml" filepath="$USER_HOME$/Dokumente/Studium WS1718/AndroidProgr/android_louis/Loesungen/Kap12/DateiListeSDCard/DateiListeSDCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$USER_HOME$/Dokumente/Studium WS1718/AndroidProgr/android_louis/Loesungen/Kap12/DateiListeSDCard/app/app.iml" filepath="$USER_HOME$/Dokumente/Studium WS1718/AndroidProgr/android_louis/Loesungen/Kap12/DateiListeSDCard/app/app.iml" />
     </modules>
   </component>

@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="$USER_HOME$/Dokumente/Studium WS1718/AndroidProgr/android_louis/Loesungen/Kap12/DateiListeSDCard" />
-            <option value="$USER_HOME$/Dokumente/Studium WS1718/AndroidProgr/android_louis/Loesungen/Kap12/DateiListeSDCard/app" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
